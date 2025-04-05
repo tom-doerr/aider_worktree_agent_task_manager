@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "test": "jest --coverage",
-    "lint:fix": "eslint --fix --ext .js,.jsx,.ts,.tsx .",
+    "lint:fix": "eslint --fix --ext .js,.jsx,.ts,.tsx,.json .",
     "start": "node src/app.js"
   },
   "dependencies": {
